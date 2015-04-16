@@ -14,4 +14,5 @@ Copyright Docker Inc Education Team 2014 <education@docker.com>
 
 trivial change
 
-First commit for automated build testing on docker hub
+step 1: First commit for automated build testing on docker hub
+step 2: integration with Jenkins
